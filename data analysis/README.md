@@ -13,7 +13,7 @@ A beautiful web application for analyzing CSV files using Pandas and creating vi
 - 💡 **Data Insights**: Automatic generation of insights about your dataset
 - 🎨 **Modern UI**: Beautiful, responsive design with smooth animations
 
-## Installation
+## Installation..
 
 1. Install Python dependencies:
 ```bash
